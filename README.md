@@ -1,7 +1,7 @@
 # Week 8 Quiz
 ## Part 1: Imaging Technique Inspiration
 My chosen source of inspiration is the works of Japanese contemporary artist **Yayoi Kusama**. Polka dots are the trademark motif of her work, inspired by the visual hallucinations that she experiences;
-> "Earth, moon, sun and human beings all represent dotes; a single particle among billions." *Yayoi Kusama*
+> "Earth, moon, sun and human beings all represent dots; a single particle among billions." *Yayoi Kusama*
 
  These polka dots can vary in size and placement to create abstraction or an image. I would like to explore this technique to recreate one of the chosen artworks in the style of Kusama. The degree of abstraction can be varied through the size and arrangement of the polka dots. These variables also create potential for animation through audio, timer events, noise or user input.
 
